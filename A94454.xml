@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable House of Commons assembled in Parliament. The humble petition of many thousands of citizens, and inhabitants in and about London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94454</idno>
+            <idno type="STC">Wing T1412</idno>
+            <idno type="STC">Thomason 669.f.11[113]</idno>
+            <idno type="STC">ESTC R210743</idno>
+            <idno type="EEBO-CITATION">99869504</idno>
+            <idno type="PROQUEST">99869504</idno>
+            <idno type="VID">162764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162764)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[113])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable House of Commons assembled in Parliament. The humble petition of many thousands of citizens, and inhabitants in and about London.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>William Trigg, practicioner of physick, who had ministered to the City of London for many years, including time of plague, was in danger of losing his ability to practice because of requests by the College of Physicians that Parliament enforce its act against those who are not physicians or surgeons practicing in London. The purpose of this petition is to plead for suspension of execution of the act in Trigg's case.</note>
+                  <note>Annotation on Thomason copy: "Jan. 6th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trigg, William, --  practicioner of physick --  Early works to 1800.</term>
+               <term>Medicine --  England --  London --  Early works to 1800.</term>
+               <term>Physicians --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162764:1" rendition="simple:additions"/>
+            <head>TO THE HONOURABLE Houſe of Commons aſſembled in Parliament. The humble Petition of many thouſands of Citizens, and Inhabitants in and about <hi>London.</hi>
+            </head>
+            <opener>In all humility ſhewing,</opener>
+            <p>THat Mr. <hi>William Trigg</hi> Practitioner of Phyſick, the laſt great ſickneſſe did by Gods bleſſing upon his Phyſick and Chyrurgeries, cure many that are ſtill living; and did abundance of good to all ſorts of people in and about this City: when moſt of the Colledge Doctors deſerted us, ſince which time your Petitioners have for above twenty yeares, in their ſeverall times of ſickneſſes, and infirmities taken Phyſick from him; for whom they have great reaſon to bleſſe the Lord, who hath made him the inſtrument to reſtore us, and many of our ſeverall Families, to our for<g ref="char:EOLhyphen"/>mer healths; and in which time, we doe verily beleeve in our conſciences, that he hath done good to above thirty thouſand Perſons; and that he maketh all his Compoſitions himſelfe, not taking any thing for his Phyſick from poor people; but rather releiving their neceſſities, nor any mo<g ref="char:EOLhyphen"/>ney from any of us for his advice; and but moderately for his Phyſick: his cuſtome being to take from the middle ſort of Patients, 12<hi rend="sup">d</hi>. 18<hi rend="sup">d</hi>. 2s 2s. 6<hi rend="sup">d</hi>. as they pleaſe to give, very ſeldom five ſhillings, unleſſe from ſuch as take much Phyſick with them together into the Countrey: Having done many wonderfull cures of divers of your Petitioners, and others who had long languiſhed, and ſpent great ſummes of money upon other Phyſitians and left by them as incurable</p>
+            <p>That there is a good and wholeſome law made in the 34<hi rend="sup">th</hi>. year of King <hi>Hen 8. c.</hi> 8. Permitting every man that hath knowledge, and experience in the nature of Herbs, Roots, and waters, to improve his Talent for the common good and health of the people; the Copie whereof your Petitioners have humbly preſented, to be as a glaſſe to repreſent the faces, and conditions, of things to be ſuch now, as formerly they were.</p>
+            <p>WHerein the Parliament holden at <hi>Weſtminſter,</hi> in the third yeare of the Kings moſt gracious reigne, amongſt other things for the avoiding of Sorceries, Wichcraft, and other inconveniences, it was enacted that no perſon within the City of <hi>London,</hi> nor within ſeven myles of the ſame; ſhould take upon him to exerciſe and occupy as Phyſitian, or Chyrurgion, except he be firſt examined, approved and admitted by the Biſhop of <hi>London,</hi> and others, under and upon certaine paines and penalties in the ſame Act mentioned. Sithens the making of which ſaid Act, the Company and Fellowſhip of Chyrurgions of <hi>London,</hi> minding onely their own lucres, and nothing the profit of the diſeaſed, or patient, have ſued, troubled, and vexed divers honeſt Perſons, as well men as women, whom God hath endowed with the knowledge of the nature, kinde, and operation of certaine herbes, rootes, and waters, and the uſing and miniſtring of them, to ſuch as are pained with cuſtomable diſeaſes: As womens breaſts being ſore, a pin and a web in the eye, uncomes of hands, ſcaldings, burnings, ſore mouthes, the ſtone, ſtrangury, ſaucelim, and morfew, and ſuch other like diſeaſes. And yet the ſaid perſons have not taken any thing for their paines, or cunning; but have miniſtred the ſame to the poor people, onely for neighbour<g ref="char:EOLhyphen"/>hood and Gods ſake, and of pity and charity. And it is now well known, that the Chyrurgions admitted will do no cure to any perſon, but where they ſhall know to be rewarded with a greater ſumme, or reward, then the cure extendeth unto; for in caſe they would miniſter their cunning to poor peo<g ref="char:EOLhyphen"/>ple unrewarded, there ſhould not ſo many rotte and periſh to death, for lacke of helpe of Chyrurgery, as daily doe; but the greateſt part of Chyrur<g ref="char:EOLhyphen"/>geons admitted be much more to be blamed, then thoſe Perſons that they trouble: For although the moſt part of the Perſons of the ſaid craft of Chyrurgeons have ſmall cunning; yet they will take great ſummes of money, and doe little therefore, and by reaſon thereof they doe oftentimes im<g ref="char:EOLhyphen"/>paire and hurt their patients, rather then doe them good. In conſideration whereof, and for the eaſe, comfort, ſuccour, help, reliefe and health, of the Kings poor Subjects, Inhabitants of this his Realm, now pained, or diſeaſed, or that hereafter ſhall be pained, or diſeaſed. Be it ordained, eſtabliſhed, and enacted, by the authority of this preſent Parliament, that all time henceforth it ſhall be lawfull to every perſon being the Kings ſubject, having knowledge and experience, of the nature of herbs, roots, and waters: or of the operation of the ſame by ſpeculation, or practice, within any part of the Realm of <hi>England,</hi> or within any other of the Kings Dominions, to practice, uſe, and miniſter, in and to any outward ſore; uncombe, wound, appoſtumacions, outward ſwelling, or diſeaſes; any herbe, or herbes, oyntments, bathes, pultes, and emplaſters, according to their cunning experience and knowledge, in any of the diſeaſes, ſores, and maladies before ſaid, and all other like to the ſame; or drinks of the ſtone, and ſtran<g ref="char:EOLhyphen"/>gury, or agues; without ſute, vexation, trouble, penalty, or loſſe of their goods, the foreſaid ſtatute in the aforeſaid third yeare of the Kings moſt gracious reigne, or any other Act, Ordinance, or Statute to the contrary hereof, heretofore made in any wiſe notwithſtanding,</p>
+            <p>Yet notwithſtanding the Preſident, and Colledge of Phyſicians in <hi>London,</hi> envying the happy ſucceſſe of his Phyſick; endeavour by all meanes poſſible to ſuppreſſe the ſaid Mr. <hi>William Triggs</hi> Practice, and have maliciouſly preferred ſeverall Inditements againſt him at the common law, and have brought an information, and an action of debt upon him, <hi>&amp;c.</hi> Prohibiting all men from practiſing Phyſick, which are not by them licenſed; which was made to ſuppreſſe Mountebanks, who then cozoned and deluded the people; and not to be put in execution againſt him, who is the poor peoples honeſt Doctor, as may appeare by thouſands of our hands hereunto annexed: Endeavouring to make him odious in the ſight of all men; who under God hath preſerved thouſands of our lives; whom God hath endowed with the knowledge of the nature, and operation of Herbs, Rootes, and many wonderfull ſecrets in Phyſick, and Chyrurgerie; wherein if the ſaid Colledge ſhall prevail, many poore people muſt of neceſſity periſh to death, for want of help in time of ſickneſſe, from which there is no exemption, for they are not able to pay great fees to Doctors, and Apotheca<g ref="char:EOLhyphen"/>ries bills which coſt more then his advice and Phyſick: Nor can we have acceſſe unto them when we deſire, which we familiarly have to Doctor <hi>Trigg</hi> to ourgreat eaſe and comfort.</p>
+            <p>Foraſmuch as your Honours have declared, that the health of the people, is the ſupreame law; and that he who in the great plague, adventured himſelfe for our good, ought to be incouraged in his practice in times of health. Your Petitioners hope that if there be any penall lawe in force, that is diſtructive to the health and welfare of the people: Your Honours will be pleaſed in your great wiſdomes, to ſuſpend the execution thereof; rather then to ſuffer many poore people to periſh to death, for want of help; and your Petitioners therefore moſt humbly beſeech this Honou<g ref="char:EOLhyphen"/>rable Houſe, who hath done ſuch great things for the ſaftie of this Kingdom, for the ſakes of ſo many poore people, in and about this City, who are deeply concerned herein, as much as their lives are worth; to Order that the ſaid D. <hi>Trigg,</hi> ſhall and may quietly, and without any diſtur<g ref="char:EOLhyphen"/>bance, or penalty, practice and adminiſter Phyſick, in and about this City, notwithſtanding any Charter, or law to the contrary. And that your Honours would be pleaſed, that ſuch moneyes as have been recovered againſt the ſaid <hi>William Trigg,</hi> may be remitted unto him; For why ſhould any man ſuffer for ſaving his neighbours life.</p>
+            <closer>
+               <signed>And your Petitioners, who have faithfully adhered to your Honours in this great cauſe, ſhall have reaſon to magnifie your Honours Juſtice in the care and preſervation of our health, a thing moſt deare unto us; And ſhall ever pray for the Proſperity of this Honourable Houſe.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
